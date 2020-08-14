@@ -1,0 +1,38 @@
+.row-header{
+    margin: 0px auto;
+    padding: 0px auto;
+
+}
+.history-tab{
+    margin:0px 0px 50px 0px;
+    padding: 40px 0px 40px 0px;
+}
+.row-content{
+    margin: 0px auto;
+    padding: 50px 0px 50px 0px;
+    border-bottom: 0.01px ridge;
+    min-height: 400px;
+}
+
+.footer{
+    background-color: #D1C4E9;
+    margin: 0px auto;
+    padding: 20px 0px 20px 0px;
+}
+/* 
+this jumbotron effects will addd over to the previous present changes available in bootstrap */
+.jumbotron{
+    padding: 70px 30px 70px 30px;
+    margin: 0px auto;
+    background: #9575CD;
+     color: floralwhite; 
+    /*background-color: #9575CD;*/
+}
+
+.address{
+    font-size: 80%;
+    margin:0px;
+
+    color:black;
+}
+
